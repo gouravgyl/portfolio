@@ -24,7 +24,7 @@ export const data = [
     heading: "Strawberrynet Clone",
     description:
       "Clone of strawberrynet.com, An e-commerce website which is an online beauty store.",
-    demo: "",
+    demo: "https://immense-waters-48770.herokuapp.com/products",
     github: "https://github.com/raviprakash1234/strawberrynet.git",
     video: "",
     techStack: {
